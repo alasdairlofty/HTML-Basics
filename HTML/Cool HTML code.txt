@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="HTML, CSS" />
+    <meta name="description" content="..." />
+    <title>Document</title>
+    <style>
+      em {
+        color: red;
+        font-style: normal;
+      }
+    </style>
+  </head>
+  <body>
+    <a href="company/about.html">About Me</a>
+    <a href="images/Profile.jpg" download>My Profile</a>
+    <a href="#section-css">CSS</a>
+    <a href="https://google.com" target="_blank">Google</a>
+    <a href="mailto:alasdairlofty@gmail.com">Email Me!</a>
+    <h2>HTML</h2>
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis iste
+      error adipisci minima tempore nam? Ullam architecto a nesciunt commodi
+      quod illo? Nostrum dolores autem amet expedita aut, tenetur ad
+      consectetur, tempora dicta eaque magnam, id asperiores? Fugit delectus non
+      quo reiciendis numquam vitae laborum nam sequi quod modi aliquam fuga nisi
+      hic facere quidem, laudantium aliquid nihil, error amet. Error, ut.
+      Voluptates, iusto dolore. Fugit, a earum. Officia voluptate laboriosam
+      atque ratione provident. Voluptatem illum nulla fuga debitis reprehenderit
+      soluta beatae hic at facere fugiat officia laborum, id, aperiam corporis
+      veniam est ut rerum nam culpa. Sequi, dolorum saepe voluptate fuga at
+      molestiae recusandae itaque eveniet odio maiores facere delectus, enim
+      magni in assumenda ipsam mollitia, eum voluptas ullam? Iste dolore quo
+      rerum quasi cumque, architecto, neque nulla quam facere, distinctio quis
+      aperiam laboriosam eos. Voluptas nulla enim, atque accusamus eum quam
+      quasi tenetur aliquam repellendus porro eaque ut quidem similique eius
+      dolorum dolore reprehenderit tempore saepe. Quisquam earum voluptatum esse
+      non a quod quo repellat veritatis animi iusto magni cupiditate doloribus
+      quia necessitatibus ipsa itaque ut perspiciatis sint corrupti, illum vitae
+      explicabo. Similique, illo molestias beatae inventore quibusdam atque ipsa
+      delectus neque, possimus magnam nisi eius veritatis officiis.
+    </p>
+    <h2 id="section-css">CSS</h2>
+    <p>
+      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odio molestias,
+      fuga debitis officiis deserunt facere facilis deleniti fugit quibusdam
+      asperiores, fugiat beatae cum tempore nihil qui doloremque minima! Dolore,
+      ducimus, beatae doloremque quae accusamus illo ut rerum iusto similique
+      est temporibus cum blanditiis ipsam eveniet, velit vero suscipit qui
+      excepturi? Fugit deleniti minus magnam quod, iure nemo excepturi, dicta
+      suscipit ea vero repellat expedita consectetur eveniet dolor voluptas
+      aliquam eos quasi cumque maxime qui? Sunt fugit inventore qui, amet
+      voluptate recusandae itaque dolorum quo nobis labore, sed culpa deleniti
+      ipsa maiores ducimus magni possimus maxime. Perferendis illo doloribus,
+      pariatur et atque animi delectus libero possimus reiciendis, repellendus
+      aliquid ullam dolore quasi esse, nesciunt id laboriosam? Possimus ipsa
+      delectus nemo, eligendi tenetur ducimus ullam repudiandae autem, laborum
+      nulla quasi laudantium cumque. Magni voluptate nulla voluptates sequi,
+      adipisci esse vitae laboriosam alias at nam consequuntur blanditiis optio!
+      Facere, ex et. Illum harum eius deleniti tempore laudantium? Et commodi
+      officia necessitatibus. Eum quis labore voluptate voluptas veritatis iusto
+      quod provident ad adipisci corrupti laudantium veniam, in dolor debitis
+      neque, animi perspiciatis recusandae. Porro dicta voluptatem eligendi aut
+      beatae nesciunt laboriosam. Quod placeat, cumque unde quae dolorem
+      inventore nam? Incidunt debitis asperiores quis atque!
+    </p>
+    <a href="#">Jump to top</a>
+  </body>
+</html>
